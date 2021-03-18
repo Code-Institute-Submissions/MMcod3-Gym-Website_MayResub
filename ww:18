@@ -57,7 +57,7 @@
           <div class="embed-responsive embed-responsive-16by9">
 
             <!-- Youtube Embed -->
-          <iframe width="917" height="516" src="https://www.youtube.com/embed/gC_L9qAHVJ8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="917" height="516" src="https://www.youtube.com/embed/gC_L9qAHVJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
 
@@ -71,7 +71,6 @@
           <div class="container">
             <h3>Restaurant</h3>
             <p>We are commited to ensuring our clients can be heatlhy in every activity they do this includes their diet. Our restaurant meals offer all the required macro neutrients for any idividual dedicated to maintaning a healthy mind and body
-          </div>
         </div>
       </div>
     </div>
@@ -83,7 +82,7 @@
           <legend>Sign Up</legend>
           <div class="form-group">
             <label for="inputName">Full Name</label>
-            <input type="text" class="form-control" id="inputName" placeholder="John Stevens" aria-required="true">
+            <input type="name" class="form-control" id="inputName" placeholder="John Stevens" aria-required="true">
           </div>
           <div class="form-group">
             <label for="inputEmail">Email address</label>
