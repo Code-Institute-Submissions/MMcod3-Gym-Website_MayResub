@@ -51,11 +51,13 @@ This is the primary marketing website for Natural Gains, a new gym based in the 
 
 ## Wireframes
 
-*   Homepage wireframe 
+*   Homepage wireframe are in the image repository
 
-*   Timetable wireframe
+*   Timetable wireframe are in the image repository
 
-*   Contact us wireframe
+
+*   Contact us wireframe are in the image repository
+
 
 ## Features
 
@@ -90,9 +92,9 @@ This is the primary marketing website for Natural Gains, a new gym based in the 
 W3C markup validator and W3C CSS Validator services used to validate
 every page of the project to ensure no syntac erros
 
--   Results
+-   results are in the image repository
 
--   Results
+-   results are in the image repository
 
 ## Testing user stories
 
