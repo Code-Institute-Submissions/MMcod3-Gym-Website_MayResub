@@ -36,7 +36,7 @@
 body {
   background-color: #606060FF;
   color: #ffffffff;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", "Arial", Times, serif;
 }
 
 h2, h3, h4, h5, h6 {
@@ -49,3 +49,4 @@ a {
 
 a:hover {
   color: #000000;
+}
