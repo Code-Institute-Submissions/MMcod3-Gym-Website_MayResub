@@ -1,0 +1,11 @@
+#header {
+  background-image: url('../images/FrontPage.jpg');
+  padding-top: 10%;
+  padding-bottom: 10%; 
+  color: #ffffff;
+}
+
+
+#heading-text {
+  font-size: 100px;
+}
