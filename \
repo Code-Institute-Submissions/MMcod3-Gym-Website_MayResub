@@ -14,9 +14,8 @@
     <title>Natural Gains</title>
   </head>
   <body>
-
-    <!-- Navbar -->
-      <ul class="nav justify-content-center">
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <ul class="nav nav-pills">
         <li class"nav-item">
           <a class="nav-link active" href="#">Home</a>
         </li>
@@ -27,6 +26,7 @@
           <a class="nav-link" href="#">Contact Us</a>
         </li>
       </ul>
+  </nav>
 
     <!-- Main Header -->
     <div class="jumbotron jumbotron-fluid" id='header'>
@@ -39,41 +39,9 @@
 
     <div class="container">
           <h2>Facilities</h2>
-          <p>Here at Natural Gains we have a broad array of services to help aid workout and recovery that range from a vast selection of weight machine and free weights to a spa and pool and even our very own brand new massage therapist</p>
+            <p>Here at Natural Gains we have a broad array of services to help aid workout and recovery that range from a vast selection of weight machine and free weights to a spa and pool and even our very own brand new massage therapist</p>
     </div>
     
-    <div class="container">    
-      <div class="row">
-
-        <div class="col">
-          <h3>Classes</h3>
-          <p>All of our classes are taught by certified level 5 instructors with 5+ experience in the field</p>
-          <p>Our full range of classes include</p>
-          <ul>
-            <li>Yoga</li>
-            <li>Spin Class</li>
-            <li>Swimming</li>
-            <li>Circuit Training</li>      
-          </ul>
-          <div class="embed-responsive embed-responsive-16by9">
-            <!-- Youtube Embed -->
-          <iframe width="917" height="516" src="https://www.youtube.com/embed/gC_L9qAHVJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-        </div>
-
-        <div class="col">
-          <div class="container">
-            <h3>Spa</h3>
-
-            <p>At Natural Gains we have a state of the art spa and we are dedicated to giving our clients the best relaxation and recovery</p>
-            <img class="img-fluid" src="../images/Spa.jpeg" alt="Woman getting a head massage">
-          </div> 
-          <div class="container">
-            <h3>Restaurant</h3>
-            <p>We are commited to ensuring our clients can be heatlhy in every activity they do this includes their diet. Our restaurant meals offer all the required macro neutrients for any idividual dedicated to maintaning a healthy mind and body
-        </div>
-      </div>
-    </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
