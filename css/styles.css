@@ -8,9 +8,44 @@
 }
 
 #heading-text {
-  font-size: 70px;
+  font-size: 100px;
+  color: #D6ED17FF;
 }
 
+#slogan {
+  color: #ffffff;
+  font-size: 20px;
+}
 .container { 
   padding: 7px;
 }
+
+.nav {
+
+  background-color: #606060FF;
+}
+
+.nav-link {
+  color: #D6ED17FF;
+}
+
+.jumbotron {
+  background-color: #000000;
+}
+
+body {
+  background-color: #606060FF;
+  color: #ffffffff;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #D6ED17FF;
+}
+
+a {
+  color: #D6ED17FF;
+}
+
+a:hover {
+  color: #000000;
