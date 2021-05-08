@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&display=swap');
 
+
 #header {
   color: #ffffff;
   background-image: url('../images/HeadImage.jpeg');
@@ -11,44 +12,45 @@
 
 #heading-text {
   font-size: 100px;
-  color: #D6ED17FF;
+  color: #14A76C;
 }
 
 #slogan {
   color: #ffffff;
   font-size: 20px;
 }
-.container { 
-  padding: 7px;
-}
 
 .nav {
 
-  background-color: #606060FF;
+  background-color: #272727;
 }
 
 .nav-link {
-  color: #D6ED17FF;
+  color: #14A76C;
 }
 
 .jumbotron {
-  background-color: #000000;
+  background-color: #747474;
 }
 
 body {
-  background-color: #606060FF;
+  background-color: #272727;
   color: #ffffffff;
   font-family: 'Nunito Sans', sans-serif;
 }
 
 h2, h3, h4, h5, h6 {
-  color: #D6ED17FF;
+  color: #14A76C;
 }
 
 a {
-  color: #D6ED17FF;
+  color: #14A76C;
 }
 
 a:hover {
   color: #000000;
 }
+
+hr {
+  background-color: #ffffff;
+ }
