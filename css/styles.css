@@ -16,8 +16,12 @@
 }
 
 #slogan {
-  color: #ffffff;
+  color: #FFE400;
   font-size: 20px;
+}
+
+#timetable {
+  color: #ffffffff;
 }
 
 .padding {
@@ -30,16 +34,40 @@
 }
 
 .nav-link {
-  color: #14A76C;
+  color: #FF652F;
 }
 
 .jumbotron {
   background-color: #747474;
 }
 
+.form-control {
+  background-color: #747474;
+  color: #ffffff;
+}
+
+.form-control:focus {
+  background-color: #747474;
+  border-color: #FF652F;
+  color: #ffffff;
+}
+
+.placeholder {
+  color: #ffffff;
+}
+
+.btn {
+  background-color: #747474;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: #FF652F;
+}
+
 body {
   background-color: #272727;
-  color: #ffffffff;
+  color: #747474;
   font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -52,9 +80,9 @@ a {
 }
 
 a:hover {
-  color: #000000;
+  color: #FFE400;
 }
 
-hr {
-  background-color: #ffffff;
- }
+legend {
+    color: #FF652F;
+}
