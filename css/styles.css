@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&display=swap');
+
 #header {
   color: #ffffff;
   background-image: url('../images/HeadImage.jpeg');
@@ -36,7 +38,7 @@
 body {
   background-color: #606060FF;
   color: #ffffffff;
-  font-family: "Times New Roman", "Arial", Times, serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 h2, h3, h4, h5, h6 {
