@@ -14,7 +14,8 @@
   <body>
 
     <!-- Navbar -->
-      <nav class="nav justify-content-center">
+    <nav>
+      <ul class="nav justify-content-center">
         <li class="nav-item">
           <a class="nav-link active" href="index.html">Home</a>
         </li>
@@ -24,7 +25,8 @@
         <li class="nav-item">
           <a class="nav-link" href="contact.html">Contact Us</a>
         </li>
-      </nav>
+      </ul>
+    </nav>
 
     <!-- Main Header -->
     <header class="jumbotron jumbotron-fluid" id='header'>
@@ -83,11 +85,11 @@
           <legend>Sign Up</legend>
           <div class="form-group">
             <label for="inputName">Full Name</label>
-            <input type="text" class="form-control" id="inputName" placeholder="John Stevens" aria-required="true">
+            <input type="text" class="form-control" id="inputName" placeholder="John Stevens" aria-required="true" required>
           </div>
           <div class="form-group">
             <label for="inputEmail">Email address</label>
-            <input type="email" class="form-control" id="inputEmail" placeholder="johnstevens@naturalgains.com" aria-required="true">
+            <input type="email" class="form-control" id="inputEmail" placeholder="johnstevens@naturalgains.com" aria-required="true" required>
           </div>
           <button type="submit" class="btn btn-primary">Submit</button>
         </fieldset>
